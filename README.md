@@ -1,4 +1,4 @@
-### Hi there, I'm Paul. I'm a fourth year Behavioural Neuroscience and Computer Science student at UBC.
+### Him I'm Paul. I'm a fourth year Behavioural Neuroscience and Computer Science student at UBC.
 
 <!--
 **paultibe/paultibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
