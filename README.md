@@ -1,5 +1,5 @@
 ## Hi! I'm Paul:) 
-I'm a Computer Science + Behavioural Neuroscience student at UBC passionate about full-stack web dev, AI, robotics, and the brain! 
+I'm a Computer Science + Behavioural Neuroscience student at UBC passionate about backend dev, AI, robotics, and the brain! 
 
 <!--
 **paultibe/paultibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
