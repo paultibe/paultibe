@@ -1,8 +1,9 @@
 ## Hi! I'm Paul:) 
-I'm a Computer Science + Behavioural Neuroscience student at UBC passionate about backend dev, AI, robotics, and the brain!
+Through my dual degree in computer science and behavioural neuroscience, I've had the unique privilege of peeking under two beautiful, complex, enormously relevant, and rapidly changing fields. I'm particularly interested in distributed systems, cloud computing, learning, personal knowledge management, and the intersection of AI, psychology, and neuroscience.
 
-Also venturing into marketing while organizing Western Canada's largest hackathons @ nwPlus.
+For some of my work, check out my [experience](https://paultiberghien.com/Experience) and [projects](https://paultiberghien.com/Projects).
 
+To get to know me better, including my core beliefs, values, systems, and goals, checkout my [digital garden](https://garden.paultiberghien.com/).
 <!--
 **paultibe/paultibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
